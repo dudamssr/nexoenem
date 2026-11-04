@@ -1,4 +1,4 @@
-# ✳ Auré
+# Auré
 
 <p align="center">
   <strong>Seu próximo passo começa com o conhecimento.</strong>
@@ -10,21 +10,21 @@
 
 ---
 
-## ✦ Sobre o projeto
+## Sobre o projeto
 
-A **Auré** é uma plataforma educacional criada com o propósito de tornar a preparação para o ENEM mais organizada, acessível e dinâmica.
+A Auré é uma plataforma educacional criada com o propósito de tornar a preparação para o ENEM mais organizada, acessível e dinâmica.
 
 O projeto reúne conteúdos de diferentes áreas do conhecimento e questões de provas anteriores, proporcionando um ambiente no qual os estudantes podem praticar, revisar conteúdos e desenvolver seus conhecimentos.
 
 Mais do que uma ferramenta de estudos, a Auré busca tornar a jornada de preparação mais intuitiva e interessante.
 
-## ✦ Prévia da plataforma
+## Prévia da plataforma
 
 <p align="center">
-  <img src="images/foto1.png" alt="Tela inicial da Auré" width="850">
+  <img src="images/foto1.png" alt="Tela inicial da Auré" width="100">
 </p>
 
-## ✦ Funcionalidades
+## Funcionalidades
 
 - **Áreas de estudo:** organização dos conteúdos em quatro grandes áreas do conhecimento.
 - **Questões do ENEM:** acesso a questões de edições anteriores do exame.
@@ -32,7 +32,7 @@ Mais do que uma ferramenta de estudos, a Auré busca tornar a jornada de prepara
 - **Feedback imediato:** identificação de respostas corretas e incorretas.
 - **Navegação intuitiva:** interface organizada para facilitar a experiência do estudante.
 
-## ✦ Áreas do conhecimento
+## Áreas do conhecimento
 
 | Área | Conteúdos |
 |---|---|
@@ -41,18 +41,18 @@ Mais do que uma ferramenta de estudos, a Auré busca tornar a jornada de prepara
 | Ciências da Natureza | Biologia, Física e Química |
 | Matemática | Matemática e suas tecnologias |
 
-## ✦ Tecnologias utilizadas
+## Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - API ENEM.dev
 - Google Fonts
 - Font Awesome
 
-## ✦ API utilizada
+## API utilizada
 
-A Auré utiliza a API pública **ENEM.dev** para consultar questões de provas anteriores do Exame Nacional do Ensino Médio.
+A Auré utiliza a API pública ENEM.dev para consultar questões de provas anteriores do Exame Nacional do Ensino Médio.
 
 A integração permite buscar questões, apresentar enunciados e alternativas e conferir as respostas selecionadas pelo estudante.
 
@@ -61,9 +61,9 @@ Documentação e repositório:
 - [ENEM.dev](https://enem.dev/)
 - [GitHub ENEM.dev](https://github.com/)
 
-## ✦ Identidade visual
+## Identidade visual
 
-A identidade visual da Auré foi desenvolvida a partir de uma proposta editorial, leve e contemporânea, combinando cores suaves com elementos de destaque.
+A identidade visual da Auré foi desenvolvida a partir de uma proposta editorial, leve e contemporânea, combinando cores suaves com elementos de destaque
 
 
 **Tipografia:**

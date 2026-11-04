@@ -61,12 +61,4 @@ Documentação e repositório:
 - [ENEM.dev](https://enem.dev/)
 - [GitHub ENEM.dev](https://github.com/)
 
-## Identidade visual
 
-A identidade visual da Auré foi desenvolvida a partir de uma proposta editorial, leve e contemporânea, combinando cores suaves com elementos de destaque
-
-
-**Tipografia:**
-
-- Quicksand
-- Playfair Display
